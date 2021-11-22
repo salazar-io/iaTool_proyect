@@ -1,0 +1,1 @@
+web: python app_ia.py --port=$PORT
